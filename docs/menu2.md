@@ -22,9 +22,7 @@ Menu2 Page Test
 
 Title1 Contents
 
-Adsense Test
 
-{% include adsense.html %}
 
 ## Title2
 
