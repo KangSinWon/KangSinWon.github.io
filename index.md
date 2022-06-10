@@ -2,40 +2,42 @@
 layout: default
 title: Home
 nav_order: 1
-description: "100sang.github.io"
+description: "KangSinWon.github.io"
 permalink: /
 ---
 
-# Welcome to 100sang.github.io
-{: .fs-8 }
-
-100SANG'S GITHUB
-{: .fs-6 .fw-300 }
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+# Hello World!
 
 ---
 
-## Getting started
+#### INFO
 
-```markdown
-Syntax highlighted code block
+- 2016.03 ~ 2020.02 
+    : 강원대학교(컴퓨터정보통신공학과, 기계학습연구실)
+- 2019.04 ~ 2019.04 
+    : The Spot (C#, WPF 개발자)
+- 2020.03 ~ 2022.02 
+    : 성균관대학교 대학원(전자전기컴퓨터공학과, 제어로봇연구실)
+- 2022.04 ~         
+    : 아우토크립트 (C++, Python 개발자)
 
-# Header 1
-## Header 2
-### Header 3
+<br/>
+<br/>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### PROJECTS
 
-**Bold** and _Italic_ and `Code` text
+- 사족보행 로봇 제어 알고리즘 (석사))
+    : 사족보행 로봇을 안전성 있게 구동하기 위한 제어 알고리즘 개발
+- 2D 라이다 기반 특징점 검출 및 매칭 (석사))
+    : 위치인식의 정확도를 올리기 위해 2D 라이다를 사용하여 특징점을 검출하고, 미리 맵에 저장해둔 특징점과의 비교를
+        통해 두 특징점을 매칭시켜주는 알고리즘 개발
+- 손 그림 추천 프로그램 (학부)
+    : Deep Learning(CNN)를 활용하여 사람들이 그린 이미지를 인식하고 인식된 이미지에 맞는 고품질의 사진을 사용자에게
+        추천하여 보여주는 프로그램 개발
+- Ext4 파일 시스템 관련 프로그램 (The Spot)
+    : 휴대폰에 많이 사용되는 Ext4 파일시스템을 분석하여, 사용자의 파일시스템을 컴퓨터 상으로 볼 수 있게 파싱 시스템을
+        개발하였으며, 또한 사진, 메시지 등의 파일을 삭제한 경우 해당 파일을 복구시켜 주는 알고리즘 개발
 
-[Link](url) and ![Image](src)
-```
 
-### Dependencies
-
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+#### ETC
